@@ -8,10 +8,10 @@ What the script does is to search between all the current path files to select t
 
 # usage
 To use, just download the script and treat it like a script Enough if you do not have the executable, give it the executive with the following command:
-(chmod +x scripts.sh) 
+`chmod +x scripts.sh`
 
 And run it using the following command:
-(./scripts.s)
+`./scripts.s`
 
 
 [MySite link](http://kiahamedi.ir/)
